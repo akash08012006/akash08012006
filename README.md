@@ -1,8 +1,3 @@
-
-<a href="https://claude.ai/artifact/4bKpxdRbTP5zqLik7AV8Rs"> <img src="./banner.svg" alt="Akash B, Software Developer" width="100%"> </a>
-  <img src="./banner.svg" alt="Akash B, Software Developer" width="100%">
-</a>
-
 <h1 align="center">Hi 👋, I'm Akash B</h1>
 <h3 align="center">A passionate full stack developer from India 🇮🇳</h3>
 
