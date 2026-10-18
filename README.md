@@ -1,5 +1,5 @@
-<!-- BANNER: upload banner.svg to this repo, then replace the link below with your 3D page link (or delete the <a> wrapper) -->
-<a href="PASTE-YOUR-3D-PAGE-LINK-HERE">
+
+<a href="https://claude.ai/artifact/4bKpxdRbTP5zqLik7AV8Rs"> <img src="./banner.svg" alt="Akash B, Software Developer" width="100%"> </a>
   <img src="./banner.svg" alt="Akash B, Software Developer" width="100%">
 </a>
 
